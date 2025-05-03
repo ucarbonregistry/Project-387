@@ -51,3 +51,33 @@ __________
 ___________
 5 BABILÔN IA V /Ourolândia /BA Wind/ 13 /2.1/ 27.3/ 364,683 /14/11/2018
 _____________
+Serial Number: 0001-000001-032513-UCR-CoU-BR-387-14112018-31122018
+
+Vintage Year: 2018
+
+Quantity: 32513 CoUs
+_______
+Serial Number: 0001-032514-297327-UCR-CoU-BR-387-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 264814 CoUs
+___________
+Serial Number: 0001-297328-319530-UCR-CoU-BR-387-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 22203 CoUs
+____________
+Serial Number: 0001-319531-417016-UCR-CoU-BR-387-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 97486 CoUs
+____________
+Serial Number: 0001-417017-530272-UCR-CoU-BR-387-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 113256 CoUs
+_______________
