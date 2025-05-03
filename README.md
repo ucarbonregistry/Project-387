@@ -51,12 +51,7 @@ __________
 ___________
 5 BABILÔN IA V /Ourolândia /BA Wind/ 13 /2.1/ 27.3/ 364,683 /14/11/2018
 _____________
-Serial Number: 0001-000001-032513-UCR-CoU-BR-387-14112018-31122018
 
-Vintage Year: 2018
-
-Quantity: 32513 CoUs
-_______
 ISSUANCE DATE: 03/05/02025
 
 MP 01 PERIOD: 14/11/2018-31/12/2023
@@ -64,6 +59,12 @@ MP 01 PERIOD: 14/11/2018-31/12/2023
 2023: 0 QTY
 
 2018-2022: 530271 CoUs
+_______
+Serial Number: 0001-000001-032513-UCR-CoU-BR-387-14112018-31122018
+
+Vintage Year: 2018
+
+Quantity: 32513 CoUs
 ________
 Serial Number: 0001-032514-297327-UCR-CoU-BR-387-01012019-31122019
 
