@@ -1,6 +1,14 @@
 # Project-387
 136.5 MW Wind Power Projects in Brazil by Babilônia
 
+SECTORAL SCOPE – 01 Energy industries (Renewable/Non-renewable sources)
+
+TYPE – I - Renewable Energy Projects
+
+CATEGORY – ACM0002: “Grid-connected electricity generation from renewable sources”, Version
+21.0
+_________
+
 The project 136.5 MW Wind Power Projects in Brazil by Babilônia consists of five (5) project
 activities installed in Brazil, located in the state of Bahia, at the Village Ourolândia. The promoter
 of the project is Babilônia Holding S.A., a company which has the full ownership of the project
